@@ -1,5 +1,9 @@
 # Amazon_Vine_Analysis
 
+![Screenshot 2022-12-01 at 12 43 29 AM](https://user-images.githubusercontent.com/110786136/204983956-b1bf5f26-1710-4b60-997d-069d2d6eaac6.png)
+
+
+
 ## Overview
 
 We are analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. We choose amazon_reviews_us_Wireless_v1_00.tsv.gz database and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. We also use SpySpark to determine if there is any bias toward favorable reviews from Vine members in your dataset.
