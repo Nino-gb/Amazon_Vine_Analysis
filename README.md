@@ -29,4 +29,4 @@ Non-vine = 47
 
 ## Summary: 
 
-With the result aboves we can conclude that there is not bias for reviews in the Vine program. Unpaid vine had a higher total reviews , 5 Star Total and 5 Star percentages. Verified_parchase column should be anayzed and filtered before calculating the vine total review to confirm the veracity of the review and avoid any mistake or discrepancy in the report.
+With the results above we can conclude that there is not bias for reviews in the Vine program. Unpaid vine had a higher total reviews , 5 Star Total and 5 Star percentages. Verified_purchase column should be anayzed and filtered before calculating the vine total review to confirm the veracity of the review and avoid any mistake or discrepancy in the report.
